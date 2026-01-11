@@ -16,3 +16,7 @@ A custom portable music player built with:
 - Configurable themes
 
 ## How to run
+python3 main.py
+
+## Folder Structure
+See the project layout in the repository.
