@@ -1,0 +1,9 @@
+{
+    "music_folder": "/home/pi/Music",
+    "volume": 70,
+    "theme": {
+        "background": [0, 0, 0],
+        "text": [255, 255, 255],
+        "accent": [0, 120, 255]
+    }
+}
