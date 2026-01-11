@@ -18,5 +18,14 @@ A custom portable music player built with:
 ## How to run
 python3 main.py
 
-## Folder Structure
-See the project layout in the repository.
+pi-music-player/
+├── lcd_driver.py
+├── joystick.py
+├── ui.py
+├── audio.py
+├── main.py
+├── assets/
+│   ├── icons/
+│   └── sample_art/
+├── config.json
+└── README.md
